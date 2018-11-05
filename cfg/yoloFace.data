@@ -1,0 +1,6 @@
+classes= 2
+train  = /opt/RedOctober/data/SHead/train.txt
+valid  = /opt/RedOctober/data/SHead/train.txt
+names = /opt/RedOctober/data/head-face-feature/face.names
+backup = ./models
+gpus  = 0,1,2

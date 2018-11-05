@@ -1,0 +1,6 @@
+classes= 2
+train  = /opt/ai/data/BOT/train/train0.txt
+valid  = /opt/ai/data/BOT/train/validate.txt
+names = /opt/ai/data/BOT/train/bot.names
+backup = ./models
+gpus  = 0,1,2,3
